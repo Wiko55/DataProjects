@@ -49,7 +49,7 @@ Using the difference between the results of two function I can see that the aver
 
 ![image](https://github.com/Wiko55/Projects/assets/139919714/7dc8b6cd-28fe-4109-ab0d-acc83b64b9f8)
 
-In other words it means that women on average got 2.86 percentage points more than a man would get at the same place in list. It is pretty big difference.
+In other words it means that women on average got 2.86 percentage points more than a man would get at the same place in list. It is pretty big difference, so we can suppose that in the elections there was some tendency to vote for the first woman or some women weren't as high on the list as they should have been.
 
 ## 4. Data Sources <a name="section4"></a>
 Polish government site: https://wybory.gov.pl/sejmsenat2023/pl/dane_w_arkuszach
