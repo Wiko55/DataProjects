@@ -34,7 +34,7 @@ The plots of some examplary parties where first woman got more votes than man wh
 ![#2](https://github.com/Wiko55/Projects/assets/139919714/95ffe77e-149f-4324-9fcc-6abcef9609dd)
 ![#1](https://github.com/Wiko55/Projects/assets/139919714/d0fd0761-5a1d-4540-98d4-86b04fc63192)
 
-## 3. Performing Data Analysis
+## 3. Performing Data Analysis <a name="section3"></a>
 By creating a function I get an information that on average first woman got 1.37 percentage points less than the man who was before them in list. 
 Note: This is the statistic for voting where the first woman was at 3th number in list or higher.
 
@@ -51,5 +51,5 @@ Using the difference between the results of two function I can see that the aver
 
 In other words it means that women on average got 2.86 percentage points more than a man would get at the same place in list. It is pretty big difference.
 
-## 4. Data Sources <a name="section2"></a>
+## 4. Data Sources <a name="section4"></a>
 Polish government site: https://wybory.gov.pl/sejmsenat2023/pl/dane_w_arkuszach
