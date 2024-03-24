@@ -2,7 +2,7 @@
 ### Description and problem to solve
 After the polish elections for parlament in 2023 I've seen someone on twitter claiming that a lot of first women on list got suprisingly big amount of votes comparing to their position on list. It could mean that there is tendency that some people vote for first woman in list or that some women should be placed higher in the voting list.
 I've decided to check it and to find out if it's the case. 
-#### Code : 
+#### Code : https://github.com/Wiko55/DataProjects/blob/main/PolishElections_2023.ipynb
 # Table of contents
 1. [Formatting the Data](#section1)
 
@@ -53,3 +53,5 @@ In other words it means that women on average got 2.86 percentage points more th
 
 ## 4. Data Sources <a name="section4"></a>
 Polish government site: https://wybory.gov.pl/sejmsenat2023/pl/dane_w_arkuszach
+
+https://github.com/Wiko55/DataProjects/tree/main/data_files
